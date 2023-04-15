@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning Web development.<br><br>👯 I’m looking to collaborate on Open Source Projects<br><br>📫 How to reach me aravindrockstar23@gmail.com<br><br>⚡ Fun fact In my free time, I do play games and watch anime
+🌱 I’m currently learning Python.<br><br>👯 I’m looking to collaborate on Open Source Projects<br><br>📫 How to reach me aravindrockstar23@gmail.com<br><br>⚡ Fun fact In my free time, I play games and watch anime
 
 
 ## 🌐 Socials:
